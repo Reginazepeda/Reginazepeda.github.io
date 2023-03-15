@@ -1,0 +1,36 @@
+#imagenindex1{ 
+    width: 30%;
+    clear: both;
+    margin: 12px;
+    border: 8px;
+    text-align: center;
+    display: block;
+    margin:auto;
+}
+#titulotexto{
+    text-align: center;
+    color:#FF2BA2;
+    font-style: italic; 
+    font-size:25px;
+}
+#barranav{
+    clear:both;
+    text-align: center; 
+}
+.menu{
+    display: inline-block;
+    width:10%;
+    background-color:#A52BFF;
+    border:solid #A52BFF;
+    text-align: center;
+    font-style:normal;
+    color:white;
+}
+#marco{
+    width: 98.5%;
+    height: 600px;
+    padding: 10px;
+}
+body{
+    background-color: #FFE6F4;
+}

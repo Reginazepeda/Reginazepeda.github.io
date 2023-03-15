@@ -1,0 +1,38 @@
+#titulocomercial{
+     color:#FF2BA2;
+    text-decoration: underline;
+    text-align: center;
+}
+
+
+.contenedorpeli{
+    margin-top: 100px;
+    display:flex;
+    padding: 30px;
+    border: #FF2BA2 5px solid;
+
+}
+.tablaspeliculas{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: initial;
+  font-size: 20px;
+  border: 1px solid #9333FF;
+    
+}
+.primeracolumna{
+    background-color: #FF2BA2;
+    color:white;
+    font-style: initial;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.infotablas{
+    background-color: white;
+}
+
+.textocap{
+    background-color: #9333FF;
+    color:white;
+}

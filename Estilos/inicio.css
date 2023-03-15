@@ -1,0 +1,24 @@
+#imageninicio1{
+    width: 30%;
+    clear: both;
+    margin: 12px;
+    border: 8px;
+    text-align: center;
+    display: block;
+    margin:auto;
+}
+.textoprincipal{
+    text-align:justify;
+    font-style: initial;
+    font-size: 20px;
+}
+h2{
+    color:#FF2BA2;
+    text-align:center;
+    font-size:30px;
+    
+}
+
+#audioinicio{
+    background-color: pink;
+}

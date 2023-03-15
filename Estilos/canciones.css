@@ -1,0 +1,16 @@
+#titulocanciones{
+    color:#FF2BA2;
+    text-decoration: underline;
+}
+
+#marcoaudio{
+    float: right;
+    width:70%;
+    display: inline-block;
+    padding;15%;
+    margin:10px;
+    height: 400px;
+}
+
+
+

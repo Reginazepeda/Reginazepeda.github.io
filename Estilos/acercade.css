@@ -1,0 +1,26 @@
+#tituloacercade{
+   color: #FF2BA2;
+    text-decoration: underline;
+    text-align: center;
+}
+#textoacercade{
+    text-align:center;
+    font-style: initial;
+    font-size: 20px;
+}
+#listafooter
+{
+    text-align: center;
+}
+.imgad{
+    display: flex;
+    justify-content: center;
+    margin-top:35px;
+    padding:35px;
+}
+.imgad1{
+    margin-top: 10px;
+}
+.imgad2{
+    margin-left: 10px;
+}

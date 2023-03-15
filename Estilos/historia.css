@@ -1,0 +1,17 @@
+#titulohistoria{
+    color:#FF2BA2;
+    text-decoration: underline;
+    text-align: center;
+}
+.contenedor{
+    margin-top: 100px;
+    display:flex;
+    padding: 30px;
+    border: #9333FF 5px solid;
+     background-color: white;
+
+}
+.textohistoria{
+    padding-left: 30px;
+    background-color: white;
+}
